@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-[Processing](https://processing.org/) - Environment
-[Java](https://www.java.com/en/) - Language 
+* [Processing](https://processing.org/) - Environment
+* [Java](https://www.java.com/en/) - Language 
 
 ### Installing
 
