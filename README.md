@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
  
 ## Authors
 
-* **Daniel Bjanes** - [DanielBjanes](https://github.com/danielbjanes)
+* **[DanielBjanes](https://github.com/danielbjanes)**
 
 ## License
 
