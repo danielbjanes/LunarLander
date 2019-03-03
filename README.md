@@ -15,8 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Download and Install Processing from the link above.
 2. Clone the repository or download as a ZIP file.
-3. Open the downloaded file in Processing
-4. Hit the Run button and enjoy
+3. Open the downloaded file in Processing.
+4. Hit the Run button and enjoy.
  
 ## Authors
 
